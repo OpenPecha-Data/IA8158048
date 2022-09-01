@@ -1,0 +1,99 @@
+id: d87ccb17c2b74dbd91ccd71477aaee19
+annotation_type: Language
+revision: '00001'
+annotations:
+  aee23e1ccd90451db403cb903c58bf10:
+    span:
+      start: 39
+      end: 172
+    language: en
+  d159654b452042b6a94b099bbd12a2c4:
+    span:
+      start: 341
+      end: 706
+    language: en
+  1862c1b187374302895282f459604c77:
+    span:
+      start: 2027
+      end: 2052
+    language: en
+  97472400d2064c6a94224e769335e782:
+    span:
+      start: 5813
+      end: 5908
+    language: en
+  01f7655873474e8baedaeb3b7abaee98:
+    span:
+      start: 6939
+      end: 7052
+    language: en
+  1e7f99af315f4fafac26468ddce01419:
+    span:
+      start: 14506
+      end: 14601
+    language: en
+  081762635ff645b68f8221d3cf1d13c4:
+    span:
+      start: 16039
+      end: 16143
+    language: en
+  01eae99e475d461fac5486cb4b1d5b60:
+    span:
+      start: 21821
+      end: 21850
+    language: en
+  83f8bd8529ba42989d654f0ea36543ba:
+    span:
+      start: 31163
+      end: 31373
+    language: en
+  1c0519ead3c647a7933dfd5902fd4120:
+    span:
+      start: 36116
+      end: 36156
+    language: en
+  8fcef1cada5b418eb51ad041d60a955e:
+    span:
+      start: 38418
+      end: 38492
+    language: en
+  06c9bd2a78944a1ab803318bdb9f7c5b:
+    span:
+      start: 39245
+      end: 39328
+    language: en
+  344015223803493299fc2418690b3ffd:
+    span:
+      start: 40963
+      end: 41037
+    language: en
+  f1eb2fc1a6f54cb09451f1d929b68be2:
+    span:
+      start: 41468
+      end: 41582
+    language: en
+  9ffb517a196647f7a19a0a687dd636fa:
+    span:
+      start: 42553
+      end: 42594
+    language: en
+  32fca8ebd617490593dbbe7ed0d4bd97:
+    span:
+      start: 43505
+      end: 43528
+    language: en
+  3e6ee9a8533a41ddbfd88293832f0ae2:
+    span:
+      start: 44299
+      end: 44399
+    language: en
+  8605aaa0fabd4cb8a524dd3899a2c6db:
+    span:
+      start: 62263
+      end: 63679
+    language: en
+  086e650ec01f4594b1ff6e9e240f5b4e:
+    span:
+      start: 63779
+      end: 63862
+    language: en
